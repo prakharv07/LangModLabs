@@ -31,7 +31,7 @@ const Dashboard = () => {
   const [a_test, setATest] = useState(false);
 
   useEffect(() => {
-    const url = "https://sih-r2-backend.onrender.com/dashboard";
+    const url = "https://langmodlabs-server.onrender.com/dashboard";
     const dashboardHandler = async () => {
       try {
         const response = await axios.get(url);
