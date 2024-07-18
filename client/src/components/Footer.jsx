@@ -107,7 +107,7 @@ export const Footer = () => {
               <PhoneIcon
                 sx={{ color: "white", fontSize: "1.4rem", paddingRight: "5px" }}
               />
-              <Typography sx={{ color: "white" }}>+91 7978365412</Typography>
+              <Typography sx={{ color: "white" }}>+91 7985******</Typography>
             </Link>
             <Link
               href="#"
@@ -123,7 +123,7 @@ export const Footer = () => {
               <EmailIcon
                 sx={{ color: "white", fontSize: "1.4rem", paddingRight: "5px" }}
               />
-              <Typography sx={{ color: "white" }}>sih@gmail.com</Typography>
+              <Typography sx={{ color: "white" }}>prakhsverma@gmail.com</Typography>
             </Link>
           </Box>
         </Box>
